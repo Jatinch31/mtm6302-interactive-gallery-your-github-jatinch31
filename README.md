@@ -1,4 +1,4 @@
-# Capstone Project - Web Development
+# Interactive-gallery - Web Development
 
 - **Name**: Jatin
 - **Student Number**: 041122970
